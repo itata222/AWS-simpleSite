@@ -1,3 +1,3 @@
 const elem1=document.getElementById('home');
 
-elem1.innerHTML="hallooo"
+elem1.innerHTML="byeee"
